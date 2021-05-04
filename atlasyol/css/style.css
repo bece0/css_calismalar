@@ -1,0 +1,129 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+
+  font-family: "Tahoma";
+  font-size: 16px;
+  background-image: url("../img/body.png");
+  background-repeat: repeat-x; 
+ 
+}
+
+.site{
+  width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.clear {
+  clear: both;
+}
+
+.ust{
+
+
+
+}
+
+
+
+.logo{
+  margin-top: 70px;
+  margin-left:50px; 
+  float: left;
+}
+
+.iletisim{
+  float: right;
+}
+
+.menu{
+ float:left;
+ margin-top:50px;
+ margin-left:50px;
+
+}
+
+.menu li{
+ 
+  float: left;
+  padding: 10px;
+  border: 1px solid black;
+
+}
+.menu li a{
+ 
+  float: left;
+  text-decoration: none;
+  font-size: 15px;
+
+  color:black;
+
+}
+.iletisim{
+  float:right;
+  padding-right: -5px;
+}
+
+.bayrak{
+  float:right;
+  margin-top: 20px;
+}
+
+.resim{
+
+  margin-top: 40px;
+  margin-left:50px;
+}
+
+.resim img{
+  width:900px;
+  height: 350px;
+}
+
+.yazi{
+  margin-top: 20px;
+  margin-left:50px;
+  text-align: center;
+}
+
+.bloklar{
+  margin-top:30px;
+  margin-left:50px;
+}
+
+.blok{
+
+  float:left;
+
+  width: 286px; 
+  height: 200px;
+  box-sizing: border-box;
+  padding-left: 10px;
+  padding-right: 20px;
+  margin-right: 10px;
+}
+
+
+.ikon{
+  float:left;
+  padding-top:10px;
+}
+.baslik{
+  float:left;
+  padding-top:20px;
+  padding-left:7px;
+  font-weight: bold;
+}
+
+.aciklama{
+  float: left;
+  padding:10px 10px 10px 10px;
+
+}
+
+.telno{
+  font-weight: 700;
+}
